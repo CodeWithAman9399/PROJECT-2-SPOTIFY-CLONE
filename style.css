@@ -118,3 +118,10 @@ nav ul li {
     opacity: 0;
     transition: opacity 0.4s ease-in;
 }
+
+.timeDisplay {
+    color: white;
+    font-size: 14px;
+    margin: 0 10px;
+    text-align: center;
+}
